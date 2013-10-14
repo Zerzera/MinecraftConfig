@@ -33,16 +33,3 @@ D LOCKED
 
 # FULL DOCUMENTATION
 # http://modding.kalam-alami.net/?invtweaks
-C1 9258
-C8 packs
-C9 packs
-
-D1 Sword
-D2 Pickaxe
-D3 Torch
-D4 Shovel
-D5 Bucket
-D5 Axe
-D6 Stones
-D7 Dirt
-D9 edibleFood
